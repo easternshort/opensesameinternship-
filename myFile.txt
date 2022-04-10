@@ -1,1 +1,6 @@
 #this is going to turn into a website some day
+
+
+
+#Step 1 is to learn Java and takes notes
+#Step 2 I'll start practicing in this Repo
