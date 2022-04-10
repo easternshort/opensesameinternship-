@@ -1,1 +1,3 @@
 #this is going to turn into a website some day
+
+#i plan using html or java to first build a basic webstie 
