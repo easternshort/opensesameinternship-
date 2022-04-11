@@ -1,3 +1,9 @@
 #this is going to turn into a website some day
 
+
 #i plan using html or java to first build a basic webstie 
+
+
+#Step 1 is to learn Java and takes notes
+#Step 2 I'll start practicing in this Repo
+
